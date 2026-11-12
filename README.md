@@ -26,7 +26,7 @@ The build creates `dist/` and `server.js`. Build errors stop deployment. The pro
 
 Target repository: https://github.com/hamdanfaiz/expansion-hub
 
-Target domain: https://blueviolet-crane-779239.hostingersite.com
+Target domain: https://lightcyan-butterfly-517770.hostingersite.com
 
 Use a Node.js Web App with backend Express (or Other with an explicit backend entry), Node.js 24, repository root `.`, build command `npm run build`, and entry file `server.js`. If a start command is requested, use `npm start`. Express serves the generated frontend in `dist/`. Build tools are devDependencies, so ensure the build installation includes them (`npm ci --include=dev` if the installation command is configurable).
 
