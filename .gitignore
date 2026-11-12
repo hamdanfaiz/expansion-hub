@@ -1,0 +1,15 @@
+node_modules/
+dist/
+server.js
+data/
+.aistudio/
+*.sql
+*.bak
+*.tmp
+*.zip
+build/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
